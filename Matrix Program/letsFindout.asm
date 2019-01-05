@@ -3,7 +3,7 @@ TITLE pa8v2.asm
 ; Date:  23 APRIL 2018
 ; Description: This program presents a menu allowing the user to pick a menu option
 ;              which then performs a given task.
-; 1.  Calculate Primes.
+; 1.  Run the program.
 ; 3.  Exit the program.
 ;/////////////////////////////////////////////////////////////////////////////////////
 ; ====================================================================================
